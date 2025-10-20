@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(40, 40, 40);
+    background-color: rgb(0, 0, 0);
 }
 
 h1 {
@@ -9,5 +9,15 @@ h1 {
 }
 /* Start here by styling the main div section */
 .main {
-    
+    background-color: beige;
+    font-size: 100px;
+    margin: 200px;
+    padding: 50px;
+    width: 20%;
+    border: dotted: orange
+    margin-left: 37.5%;
+}
+
+.square {
+    text-align: center;
 }
