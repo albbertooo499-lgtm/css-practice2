@@ -9,15 +9,37 @@ h1 {
 }
 /* Start here by styling the main div section */
 .main {
+    text-align: center;
     background-color: beige;
-    font-size: 100px;
     margin: 200px;
-    padding: 50px;
+    padding: 100px;
     width: 20%;
-    border: dotted: orange
-    margin-left: 37.5%;
+    border: dotted orange;
+    margin-left: 650px;
+    margin-right: 500px;
+    margin-bottom: 500px;
 }
 
 .square {
     text-align: center;
+}
+
+.square {
+    whi
+    padding: 30px;
+    font-size: 70px;
+    position: relative;
+
+}
+
+.square:hover::after {
+    content: "??";
+}
+
+.square:hover::after {
+    content: "💀";
+}
+
+#s8:active::after {
+    content: "👻";
 }
